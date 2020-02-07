@@ -1,0 +1,10 @@
+Instancias/B1/1.txt                                          	    34 	 0.000000000000
+Instancias/B1/2.txt                                          	    43 	 0.000164322000
+Instancias/B1/3.txt                                          	    44 	 0.000256227000
+Instancias/B1/4.txt                                          	    34 	 0.000286804000
+Instancias/B1/5.txt                                          	    37 	 0.000771644000
+Instancias/B1/6.txt                                          	    40 	 0.000268526000
+Instancias/B1/7.txt                                          	    25 	 0.000264394000
+Instancias/B1/8.txt                                          	    41 	 0.000165898000
+Instancias/B1/9.txt                                          	    38 	 0.000390497000
+Instancias/B1/10.txt                                         	    43 	 0.000354873000

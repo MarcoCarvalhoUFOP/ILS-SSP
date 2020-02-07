@@ -1,0 +1,14 @@
+"ordinalRank"
+"N_FSTI"	1
+"N_ILS"	1
+"N_ILS_LS_2OPT"	1
+"N_ILS_OPT"	1.3
+"N_FST"	2.1
+"N_FSTF"	2.1
+"N_FST_OPT"	3
+"N_KOPT"	5.8
+"N_MSG"	6.5
+"N_Ant"	9.4
+"N_BPI"	9.8
+"N_FI"	10.6
+"N_NN"	11.3

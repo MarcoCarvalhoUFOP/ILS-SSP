@@ -1,0 +1,10 @@
+Instancias/C4/1.txt                                          	    59 	 0.000000000000
+Instancias/C4/2.txt                                          	    60 	 0.062359844000
+Instancias/C4/3.txt                                          	    58 	 0.065714444000
+Instancias/C4/4.txt                                          	    58 	 0.065640693000
+Instancias/C4/5.txt                                          	    58 	 0.060928993000
+Instancias/C4/6.txt                                          	    63 	 0.065086427000
+Instancias/C4/7.txt                                          	    58 	 0.067706759000
+Instancias/C4/8.txt                                          	    56 	 0.061649975000
+Instancias/C4/9.txt                                          	    59 	 0.064431250000
+Instancias/C4/10.txt                                         	    53 	 0.068287335000

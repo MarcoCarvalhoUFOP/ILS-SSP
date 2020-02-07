@@ -1,0 +1,13 @@
+"cardinalRank"
+"N_FSTI"	-2.2
+"N_ILS"	-2
+"N_ILSOPT"	-0.7
+"N_FST"	-0.6
+"N_FSTF"	0.8
+"N_KOPT"	1.8
+"N_FSTOPT"	2.6
+"N_MSG"	3.3
+"N_BPI"	5.6
+"N_Ant"	8.8
+"N_FI"	9.5
+"N_NN"	14.2

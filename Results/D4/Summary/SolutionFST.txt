@@ -1,0 +1,10 @@
+Instancias/D4/1.txt                                          	   144 	 0.000000000000
+Instancias/D4/2.txt                                          	   124 	 0.297032021000
+Instancias/D4/3.txt                                          	   145 	 0.307010402000
+Instancias/D4/4.txt                                          	   144 	 0.295546237000
+Instancias/D4/5.txt                                          	   137 	 0.289250386000
+Instancias/D4/6.txt                                          	   151 	 0.282425424000
+Instancias/D4/7.txt                                          	   145 	 0.276799969000
+Instancias/D4/8.txt                                          	   131 	 0.290947336000
+Instancias/D4/9.txt                                          	   137 	 0.314420042000
+Instancias/D4/10.txt                                         	   145 	 0.288691984000

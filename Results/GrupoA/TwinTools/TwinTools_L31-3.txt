@@ -1,0 +1,25 @@
+Tool 0 is twin of tools:  7  10 
+Tool 1 is twin of tools:  8 
+Tool 2 is twin of tools:  3  4  5  21 
+Tool 3 is twin of tools:  2  4  5  21 
+Tool 4 is twin of tools:  2  3  5  21 
+Tool 5 is twin of tools:  2  3  4  21 
+Tool 6 is twin of tools:  11 
+Tool 7 is twin of tools:  0  10 
+Tool 8 is twin of tools:  1 
+Tool 9 is twin of tools:  12  15  16  17 
+Tool 10 is twin of tools:  0  7 
+Tool 11 is twin of tools:  6 
+Tool 12 is twin of tools:  9  15  16  17 
+Tool 13 is twin of tools:  23  24 
+Tool 14 is twin of tools:  20 
+Tool 15 is twin of tools:  9  12  16  17 
+Tool 16 is twin of tools:  9  12  15  17 
+Tool 17 is twin of tools:  9  12  15  16 
+Tool 18 is twin of tools:  19 
+Tool 19 is twin of tools:  18 
+Tool 20 is twin of tools:  14 
+Tool 21 is twin of tools:  2  3  4  5 
+Tool 22 is twin of tools: 
+Tool 23 is twin of tools:  13  24 
+Tool 24 is twin of tools:  13  23 

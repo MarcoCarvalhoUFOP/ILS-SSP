@@ -1,0 +1,10 @@
+Instancias/B4/1.txt                                          	  13
+Instancias/B4/2.txt                                          	  15
+Instancias/B4/3.txt                                          	  13
+Instancias/B4/4.txt                                          	  13
+Instancias/B4/5.txt                                          	  13
+Instancias/B4/6.txt                                          	  14
+Instancias/B4/7.txt                                          	  12
+Instancias/B4/8.txt                                          	  14
+Instancias/B4/9.txt                                          	  14
+Instancias/B4/10.txt                                         	  14

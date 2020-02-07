@@ -1,0 +1,10 @@
+Instancias/A2/1.txt                                          	    11 	 0.000000000000
+Instancias/A2/2.txt                                          	    10 	 0.017411188000
+Instancias/A2/3.txt                                          	    10 	 0.016017427000
+Instancias/A2/4.txt                                          	    12 	 0.012345433000
+Instancias/A2/5.txt                                          	    12 	 0.045582118000
+Instancias/A2/6.txt                                          	    12 	 0.016119028000
+Instancias/A2/7.txt                                          	    11 	 0.042347783000
+Instancias/A2/8.txt                                          	    10 	 0.015079662000
+Instancias/A2/9.txt                                          	    11 	 0.035118670000
+Instancias/A2/10.txt                                         	    11 	 0.012399352000

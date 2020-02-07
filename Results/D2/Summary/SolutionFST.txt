@@ -1,0 +1,10 @@
+Instancias/D2/1.txt                                          	   214 	 0.000000000000
+Instancias/D2/2.txt                                          	   184 	 0.169265401000
+Instancias/D2/3.txt                                          	   218 	 0.187651853000
+Instancias/D2/4.txt                                          	   218 	 0.171129670000
+Instancias/D2/5.txt                                          	   200 	 0.179620888000
+Instancias/D2/6.txt                                          	   232 	 0.171950117000
+Instancias/D2/7.txt                                          	   217 	 0.173580817000
+Instancias/D2/8.txt                                          	   195 	 0.184987608000
+Instancias/D2/9.txt                                          	   214 	 0.186457390000
+Instancias/D2/10.txt                                         	   222 	 0.169550729000

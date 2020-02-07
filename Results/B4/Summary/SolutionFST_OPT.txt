@@ -1,0 +1,10 @@
+Instancias/B4/1.txt                                          	    20 	 0.000000000000
+Instancias/B4/2.txt                                          	    20 	 0.013856228000
+Instancias/B4/3.txt                                          	    19 	 0.012328200000
+Instancias/B4/4.txt                                          	    18 	 0.008427507000
+Instancias/B4/5.txt                                          	    20 	 0.006365931000
+Instancias/B4/6.txt                                          	    19 	 0.003321723000
+Instancias/B4/7.txt                                          	    18 	 0.004908415000
+Instancias/B4/8.txt                                          	    19 	 0.003677934000
+Instancias/B4/9.txt                                          	    19 	 0.004043716000
+Instancias/B4/10.txt                                         	    20 	 0.004109345000

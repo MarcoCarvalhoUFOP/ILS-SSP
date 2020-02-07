@@ -1,0 +1,10 @@
+1.txt                          	 50
+2.txt                          	 50
+3.txt                          	 50
+4.txt                          	 50
+5.txt                          	 50
+6.txt                          	 50
+7.txt                          	 50
+8.txt                          	 50
+9.txt                          	 50
+10.txt                         	 50

@@ -1,0 +1,10 @@
+Instancias/C1/1.txt                                          	   118 	 0.000000000000
+Instancias/C1/2.txt                                          	   129 	 0.030349583000
+Instancias/C1/3.txt                                          	   112 	 0.028374992000
+Instancias/C1/4.txt                                          	   118 	 0.028462023000
+Instancias/C1/5.txt                                          	   115 	 0.027821402000
+Instancias/C1/6.txt                                          	   134 	 0.029725323000
+Instancias/C1/7.txt                                          	   125 	 0.026320912000
+Instancias/C1/8.txt                                          	   116 	 0.028377956000
+Instancias/C1/9.txt                                          	   125 	 0.029577690000
+Instancias/C1/10.txt                                         	   107 	 0.031303493000

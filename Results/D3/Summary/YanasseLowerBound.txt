@@ -1,0 +1,10 @@
+Instancias/D3/1.txt                                          	  71
+Instancias/D3/2.txt                                          	  69
+Instancias/D3/3.txt                                          	  73
+Instancias/D3/4.txt                                          	  65
+Instancias/D3/5.txt                                          	  70
+Instancias/D3/6.txt                                          	  75
+Instancias/D3/7.txt                                          	  73
+Instancias/D3/8.txt                                          	  68
+Instancias/D3/9.txt                                          	  60
+Instancias/D3/10.txt                                         	  77

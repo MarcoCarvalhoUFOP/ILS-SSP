@@ -1,0 +1,5 @@
+Dominance of job 0: 
+Dominance of job 1: 
+Dominance of job 2: 
+Dominance of job 3: 
+Dominance of job 4: 

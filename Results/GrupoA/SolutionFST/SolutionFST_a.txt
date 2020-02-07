@@ -1,0 +1,10 @@
+Number of Tool Switches: 7 
+
+Time elapsed: 0.000103 
+Tool Sequence:
+      1J  3J  5J  2J  4J
+  1T   1   1   0   0   0
+  2T   1   1   1   1   1
+  3T   1   0   1   0   1
+  4T   0   1   1   1   0
+  5T   0   0   0   1   1

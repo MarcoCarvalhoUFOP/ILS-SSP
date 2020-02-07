@@ -1,0 +1,10 @@
+Instancias/C2/1.txt                                          	  46
+Instancias/C2/2.txt                                          	  44
+Instancias/C2/3.txt                                          	  43
+Instancias/C2/4.txt                                          	  45
+Instancias/C2/5.txt                                          	  42
+Instancias/C2/6.txt                                          	  42
+Instancias/C2/7.txt                                          	  42
+Instancias/C2/8.txt                                          	  47
+Instancias/C2/9.txt                                          	  48
+Instancias/C2/10.txt                                         	  42

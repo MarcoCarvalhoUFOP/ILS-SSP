@@ -1,0 +1,10 @@
+Instancias/A3/1.txt                                          	  8
+Instancias/A3/2.txt                                          	  6
+Instancias/A3/3.txt                                          	  7
+Instancias/A3/4.txt                                          	  9
+Instancias/A3/5.txt                                          	  9
+Instancias/A3/6.txt                                          	  8
+Instancias/A3/7.txt                                          	  8
+Instancias/A3/8.txt                                          	  8
+Instancias/A3/9.txt                                          	  9
+Instancias/A3/10.txt                                         	  8

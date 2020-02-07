@@ -1,0 +1,10 @@
+Instancias/C3/1.txt                                          	  43
+Instancias/C3/2.txt                                          	  41
+Instancias/C3/3.txt                                          	  40
+Instancias/C3/4.txt                                          	  42
+Instancias/C3/5.txt                                          	  39
+Instancias/C3/6.txt                                          	  39
+Instancias/C3/7.txt                                          	  39
+Instancias/C3/8.txt                                          	  44
+Instancias/C3/9.txt                                          	  45
+Instancias/C3/10.txt                                         	  39

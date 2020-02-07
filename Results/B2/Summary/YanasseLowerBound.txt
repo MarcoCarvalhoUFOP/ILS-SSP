@@ -1,0 +1,10 @@
+Instancias/B2/1.txt                                          	  17
+Instancias/B2/2.txt                                          	  19
+Instancias/B2/3.txt                                          	  17
+Instancias/B2/4.txt                                          	  17
+Instancias/B2/5.txt                                          	  17
+Instancias/B2/6.txt                                          	  18
+Instancias/B2/7.txt                                          	  16
+Instancias/B2/8.txt                                          	  18
+Instancias/B2/9.txt                                          	  18
+Instancias/B2/10.txt                                         	  18
